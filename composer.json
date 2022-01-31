@@ -1,0 +1,14 @@
+{
+    "name": "pjo/comp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "stakan",
+            "email": "testbxozn@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+      "ext-json": "*"
+    }
+}
